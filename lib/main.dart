@@ -37,7 +37,7 @@ class Grade extends StatelessWidget {
       body: SingleChildScrollView(
         scrollDirection: Axis.vertical,
         child: Padding(
-          padding: const EdgeInsets.fromLTRB(30.0, 40.0, 0.0, 0.0),
+          padding: const EdgeInsets.fromLTRB(30.0, 40.0, 30.0, 0.0),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: const [
@@ -51,7 +51,6 @@ class Grade extends StatelessWidget {
                 height: 60.0,
                 color: Colors.yellow,
                 thickness: 0.5,
-                endIndent: 30.0,
               ),
               Text(
                 'NAME',
