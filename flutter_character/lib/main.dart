@@ -32,6 +32,7 @@ class Grade extends StatelessWidget {
         centerTitle: true,
         backgroundColor: Colors.indigo[100],
         elevation: 0.0,
+
       ),
       body: SingleChildScrollView(
         scrollDirection: Axis.vertical,
