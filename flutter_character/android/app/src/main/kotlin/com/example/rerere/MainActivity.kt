@@ -1,4 +1,4 @@
-package com.example.flutter_character
+package com.example.rerere
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_character">
+    package="com.example.rerere">
    <application
-        android:label="flutter_character"
+        android:label="rerere"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
