@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d505c15-8887-4d84-b4ea-93ec731ec749" name="Default Changelist" comment="" />
+    <list default="true" id="4d505c15-8887-4d84-b4ea-93ec731ec749" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/flutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
