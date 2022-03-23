@@ -48,12 +48,12 @@ class MyPage extends StatelessWidget {
           children: [
             UserAccountsDrawerHeader(
               currentAccountPicture: const CircleAvatar(
-                backgroundImage: AssetImage('assets/promis9_pjw4.jpg'),
+                backgroundImage: AssetImage('assets/fromis9_pjw4.jpg'),
                 backgroundColor: Colors.white,
               ),
               otherAccountsPictures: const [
                 CircleAvatar(
-                  backgroundImage: AssetImage('assets/promis9_pjw2.jpg'),
+                  backgroundImage: AssetImage('assets/fromis9_pjw2.jpg'),
                   backgroundColor: Colors.white,
                 ),
               ],
